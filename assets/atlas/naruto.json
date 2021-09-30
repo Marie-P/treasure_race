@@ -1,0 +1,612 @@
+{"frames": {
+
+"naruto_fall_01.png":
+{
+	"frame": {"x":288,"y":0,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":46}
+},
+"naruto_jump_01.png":
+{
+	"frame": {"x":0,"y":0,"w":31,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":43},
+	"sourceSize": {"w":31,"h":43}
+},
+"naruto_jump_02.png":
+{
+	"frame": {"x":31,"y":0,"w":31,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":43},
+	"sourceSize": {"w":31,"h":43}
+},
+"naruto_jump_03.png":
+{
+	"frame": {"x":447,"y":213,"w":34,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":63},
+	"sourceSize": {"w":34,"h":63}
+},
+"naruto_jump_04.png":
+{
+	"frame": {"x":0,"y":276,"w":34,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":63},
+	"sourceSize": {"w":34,"h":63}
+},
+"naruto_jump_05.png":
+{
+	"frame": {"x":83,"y":276,"w":49,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":64},
+	"sourceSize": {"w":49,"h":64}
+},
+"naruto_jump_06.png":
+{
+	"frame": {"x":132,"y":276,"w":49,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":64},
+	"sourceSize": {"w":49,"h":64}
+},
+"naruto_jump_07.png":
+{
+	"frame": {"x":34,"y":276,"w":49,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":63},
+	"sourceSize": {"w":49,"h":63}
+},
+"naruto_lose_01.png":
+{
+	"frame": {"x":46,"y":153,"w":43,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":58},
+	"sourceSize": {"w":43,"h":58}
+},
+"naruto_run_01.png":
+{
+	"frame": {"x":418,"y":0,"w":44,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":48},
+	"sourceSize": {"w":44,"h":48}
+},
+"naruto_run_02.png":
+{
+	"frame": {"x":462,"y":0,"w":44,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":48},
+	"sourceSize": {"w":44,"h":48}
+},
+"naruto_run_03.png":
+{
+	"frame": {"x":62,"y":0,"w":58,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":43},
+	"sourceSize": {"w":58,"h":43}
+},
+"naruto_run_04.png":
+{
+	"frame": {"x":120,"y":0,"w":58,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":43},
+	"sourceSize": {"w":58,"h":43}
+},
+"naruto_run_05.png":
+{
+	"frame": {"x":338,"y":0,"w":40,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":46},
+	"sourceSize": {"w":40,"h":46}
+},
+"naruto_run_06.png":
+{
+	"frame": {"x":378,"y":0,"w":40,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":46},
+	"sourceSize": {"w":40,"h":46}
+},
+"naruto_run_07.png":
+{
+	"frame": {"x":178,"y":0,"w":55,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":45},
+	"sourceSize": {"w":55,"h":45}
+},
+"naruto_run_08.png":
+{
+	"frame": {"x":233,"y":0,"w":55,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":45},
+	"sourceSize": {"w":55,"h":45}
+},
+"naruto_run_09.png":
+{
+	"frame": {"x":288,"y":48,"w":52,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":49},
+	"sourceSize": {"w":52,"h":49}
+},
+"naruto_run_10.png":
+{
+	"frame": {"x":340,"y":48,"w":52,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":49},
+	"sourceSize": {"w":52,"h":49}
+},
+"naruto_stand_01.png":
+{
+	"frame": {"x":89,"y":153,"w":43,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":58},
+	"sourceSize": {"w":43,"h":58}
+},
+"naruto_walk_01.png":
+{
+	"frame": {"x":296,"y":153,"w":23,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":60},
+	"sourceSize": {"w":23,"h":60}
+},
+"naruto_walk_02.png":
+{
+	"frame": {"x":168,"y":153,"w":38,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":59},
+	"sourceSize": {"w":38,"h":59}
+},
+"naruto_walk_03.png":
+{
+	"frame": {"x":132,"y":153,"w":36,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":58},
+	"sourceSize": {"w":36,"h":58}
+},
+"naruto_walk_04.png":
+{
+	"frame": {"x":206,"y":153,"w":23,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":59},
+	"sourceSize": {"w":23,"h":59}
+},
+"naruto_walk_05.png":
+{
+	"frame": {"x":229,"y":153,"w":36,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":59},
+	"sourceSize": {"w":36,"h":59}
+},
+"naruto_walk_06.png":
+{
+	"frame": {"x":265,"y":153,"w":31,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":59},
+	"sourceSize": {"w":31,"h":59}
+},
+"naruto_win_01.png":
+{
+	"frame": {"x":273,"y":97,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_02.png":
+{
+	"frame": {"x":319,"y":97,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_03.png":
+{
+	"frame": {"x":365,"y":97,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_04.png":
+{
+	"frame": {"x":411,"y":97,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_05.png":
+{
+	"frame": {"x":457,"y":97,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_06.png":
+{
+	"frame": {"x":0,"y":153,"w":46,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":56},
+	"sourceSize": {"w":46,"h":56}
+},
+"naruto_win_07.png":
+{
+	"frame": {"x":0,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_08.png":
+{
+	"frame": {"x":48,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_09.png":
+{
+	"frame": {"x":96,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_10.png":
+{
+	"frame": {"x":144,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_11.png":
+{
+	"frame": {"x":192,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_12.png":
+{
+	"frame": {"x":240,"y":48,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"naruto_win_13.png":
+{
+	"frame": {"x":181,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_14.png":
+{
+	"frame": {"x":227,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_15.png":
+{
+	"frame": {"x":273,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_16.png":
+{
+	"frame": {"x":319,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_17.png":
+{
+	"frame": {"x":365,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_18.png":
+{
+	"frame": {"x":411,"y":276,"w":46,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":72},
+	"sourceSize": {"w":46,"h":72}
+},
+"naruto_win_19.png":
+{
+	"frame": {"x":0,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_20.png":
+{
+	"frame": {"x":36,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_21.png":
+{
+	"frame": {"x":72,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_22.png":
+{
+	"frame": {"x":108,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_23.png":
+{
+	"frame": {"x":144,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_24.png":
+{
+	"frame": {"x":180,"y":213,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"naruto_win_25.png":
+{
+	"frame": {"x":216,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_26.png":
+{
+	"frame": {"x":249,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_27.png":
+{
+	"frame": {"x":282,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_28.png":
+{
+	"frame": {"x":315,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_29.png":
+{
+	"frame": {"x":348,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_30.png":
+{
+	"frame": {"x":381,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_31.png":
+{
+	"frame": {"x":414,"y":213,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"naruto_win_32.png":
+{
+	"frame": {"x":319,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_33.png":
+{
+	"frame": {"x":349,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_34.png":
+{
+	"frame": {"x":379,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_35.png":
+{
+	"frame": {"x":409,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_36.png":
+{
+	"frame": {"x":439,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_37.png":
+{
+	"frame": {"x":469,"y":153,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"naruto_win_38.png":
+{
+	"frame": {"x":87,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_39.png":
+{
+	"frame": {"x":118,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_40.png":
+{
+	"frame": {"x":149,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_41.png":
+{
+	"frame": {"x":180,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_42.png":
+{
+	"frame": {"x":211,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_43.png":
+{
+	"frame": {"x":242,"y":97,"w":31,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":50},
+	"sourceSize": {"w":31,"h":50}
+},
+"naruto_win_44.png":
+{
+	"frame": {"x":392,"y":48,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+},
+"naruto_win_45.png":
+{
+	"frame": {"x":421,"y":48,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+},
+"naruto_win_46.png":
+{
+	"frame": {"x":450,"y":48,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+},
+"naruto_win_47.png":
+{
+	"frame": {"x":0,"y":97,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+},
+"naruto_win_48.png":
+{
+	"frame": {"x":29,"y":97,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+},
+"naruto_win_49.png":
+{
+	"frame": {"x":58,"y":97,"w":29,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":49},
+	"sourceSize": {"w":29,"h":49}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "naruto.png",
+	"format": "RGBA8888",
+	"size": {"w":506,"h":348},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bb5841cdfd312fd520a06d36a81a5eb:95d43ce1777807d6785369265749dd55:d2bdf57392fa35c7652aa68790c0481b$"
+}
+}
